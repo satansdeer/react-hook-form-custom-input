@@ -1,4 +1,4 @@
-# Formik vs React Hook Form
+# React Hook Form - Custom Input
 
 Code for [this video](https://youtu.be/kzVpgOpSkUI)
 
